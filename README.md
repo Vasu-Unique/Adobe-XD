@@ -1,3 +1,1 @@
-# Figma
- Juicy and Fresh! Check out my mouthwatering landing page all about fruits, lovingly designed using Figma. <br><br>
-<img src="Figma/Fruity Delights Landing Page_page.jpg">
+### *Embark on a visual journey through captivating UI/UX designs crafted with finesse using Figma and Adobe XD. Unveil the magic as you explore the treasure trove of creativity within these folders. Let's dive in and witness the art come to life!*
