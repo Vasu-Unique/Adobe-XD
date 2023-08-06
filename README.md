@@ -1,2 +1,5 @@
-# Adobe-XD
-<img src="images/Fruity Delights Landing Page.jpg">
+# Figma
+Juicy and Fresh! Check out my mouthwatering landing page all about fruits, lovingly designed using Figma.
+<br>
+<br>
+<img src="Fruity Delights Landing Page_page-0001.jpg">
